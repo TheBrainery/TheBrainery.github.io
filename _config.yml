@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "kodeworker" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "seven" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -82,10 +82,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "吳信夫"
+  name             : "大聪明"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "熱愛閱讀、寫作、學習新技能！"
-  location         : "台北, 台灣"
+  bio              : "喜欢唱跳rap篮球"
+  location         : "中国,昆明 "
   email            : "fxp61005@gmail.com"
   uri              :
   bitbucket        :
