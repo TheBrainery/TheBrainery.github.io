@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "zh-TW"
-title                    : "我的後大學時代"
+locale                   : "zh-Kunming"
+title                    : "创新实验7组的博客"
 title_separator          : "-"
-name                     : "吳信夫"
-description              : "記錄著碩士畢業後的生活點滴，大部分是關於我抱著學位證書、躲在牆角痛哭..."
+name                     : "7组"
+description              : "7组博客"
 url                      : "https://KodeWorker.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "KodeWorker/KodeWorker.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
