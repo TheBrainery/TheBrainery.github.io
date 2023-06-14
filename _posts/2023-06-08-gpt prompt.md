@@ -13,6 +13,7 @@ tags:
 - gpt如何问问题
 - 搬运的不是我写的
 ---
+{% include toc title = "目錄" %}
 ## About
 
 When ChatGPT first launched last month, I was immediately captivated by its capabilities. I experimented with the tool in a variety of ways and was consistently amazed by the results. As I saw others finding creative ways to use ChatGPT and learned more about how to optimize its potential, I became inspired to create a repository of effective prompts called "Awesome ChatGPT Prompts." To my delight, the repository quickly gained traction and became a go-to resource for other ChatGPT users. The experience of discovering and exploring ChatGPT's capabilities, and then sharing my findings with others, was truly exciting.
