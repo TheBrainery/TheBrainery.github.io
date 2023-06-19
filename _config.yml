@@ -68,11 +68,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://github.com/TheBrainery"
-    - "https://www.facebook.com/KWbuster"
-    - "https://twitter.com/kwtalks"
-    - "https://instagram.com/KWbuster"
-    - "https://www.linkedin.com/in/shin-fu-wu-875089114/"
-    - "https://plus.google.com/108553769535652392779"
+   
 # Analytics
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
@@ -92,13 +88,13 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "KWbuster"
+  facebook         : "TheBrainery"
   foursquare       :
-  github           : "KodeWorker"
+  github           : "TheBrainery"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "KWbuster"
+  instagram        : "TheBrainery"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -106,7 +102,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "KWTalks"
+  twitter          : "TheBrainery"
   vine             :
   weibo            :
   xing             :
