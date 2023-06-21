@@ -7,8 +7,6 @@ permalink: /about/
 header:
   image: /assets/images/profile_header.jpg
   caption: "滿月圓瀑布"
-  image: ![1686829715928508](https://github.com/TheBrainery/TheBrainery.github.io/assets/117972028/18cd7a87-97f8-41d0-90bf-73946bc41828)
-  caption: "云南大学信息学院"
 ---
 ## 简介
 这实际是大作业但功能齐全。
